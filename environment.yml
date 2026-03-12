@@ -10,6 +10,7 @@ dependencies:
   - expat
   - libffi
   - ncurses
+  - openpyxl
   - openssl
   - packaging
   - readline
