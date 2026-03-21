@@ -10,7 +10,7 @@ Dieser Workshop richtet sich an Einsteiger:innen und Interessierte, die sich mit
 
 ### Was erwartet dich?
 
-In diesem Workshop arbeiten wir mit einem Jupyter Notebook, das die Emissionswerte von **Stickstoffmonoxid (NO)** und **Ozon (O₃)** aus den Jahren 2015 bis 2024 analysiert. Dabei lernt man:
+In diesem Workshop arbeiten wir mit einem Jupyter Notebook, das die Emissionswerte von **Stickstoffmonoxid (NO)** und **Ozon (O₃)** aus den Jahren 2018 bis 2023 analysiert. Dabei lernt man:
 
 - **Daten laden und vorbereiten**: Wie man Daten aus öffentlichen Quellen herunterlädt und für die Analyse aufbereitet
 - **Daten analysieren**: Welche Stationen haben die höchsten Emissionswerte? Wie haben sich die Werte über die Jahre entwickelt?
