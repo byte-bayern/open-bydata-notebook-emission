@@ -2,7 +2,7 @@
 
 In Google Colab öffnen: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/byte-bayern/open-bydata-notebook-emission/blob/main/emissionen_workshop.ipynb) (Google-Konto notwendig)
 
-In Binder öffnen: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/byte-bayern/open-bydata-notebook-emission/071847f9505fa20157c8fb902219fbe1bb559972?urlpath=lab%2Ftree%2Femissionen_workshop.ipynb)
+In Binder öffnen: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/byte-bayern/open-bydata-notebook-emission/071847f9505fa20157c8fb902219fbe1bb559972?urlpath=lab%2Ftree%2Femissionen_workshop.ipynb) 
 
 ## Workshop-Ziele und Inhalte
 
