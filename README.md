@@ -6,7 +6,7 @@ Weitere Informationen über die Ausführungen von Notebooks findet man auf diese
 
 ### Was erwartet dich?
 
-Dieses Notebook richtet sich an Einsteiger:innen und Interessierte, die sich mit offenen Daten beschäftigen möchten. Man analysiert die Luftqualitätsdaten aus Bayern und lernt dabei, öffentlich verfügbare Daten zu nutzen, aufbereiten und visualisieren. Als Beispiel werden die Emissionswerte von **Stickstoffmonoxid (NO)** und **Ozon (O₃)** aus den Jahren 2019 bis 2024 analysiert.
+Dieses Notebook richtet sich an Einsteiger:innen und Interessierte, die sich mit offenen Daten beschäftigen möchten. Man analysiert die Luftqualitätsdaten aus Bayern und lernt dabei, öffentlich verfügbare Daten zu nutzen, aufzubereiten und zu visualisieren. Als Beispiel werden die Emissionswerte von **Stickstoffmonoxid (NO)** und **Ozon (O₃)** aus den Jahren 2019 bis 2024 analysiert.
 
 - **Daten laden und vorbereiten**: Wie man Daten aus öffentlichen Quellen herunterlädt und für die Analyse aufbereitet
 - **Daten analysieren**: Welche Stationen haben die höchsten Emissionswerte? Wie haben sich die Werte über die Jahre entwickelt?
