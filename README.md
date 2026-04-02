@@ -1,36 +1,17 @@
-# Workshop: Emissionen in Bayern analysieren
+## Emissionen in Bayern analysieren
 
-In Google Colab öffnen: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/byte-bayern/open-bydata-notebook-emission/blob/main/emissionen_workshop.ipynb) (Google-Konto notwendig)
+In Google Colab öffnen: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/byte-bayern/open-bydata-notebook-emission/blob/main/emissionen.ipynb) (Google-Konto notwendig)
 
-In Binder öffnen: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/byte-bayern/open-bydata-notebook-emission/071847f9505fa20157c8fb902219fbe1bb559972?urlpath=lab%2Ftree%2Femissionen_workshop.ipynb) 
-
-## Workshop-Ziele und Inhalte
-
-Dieser Workshop richtet sich an Einsteiger:innen und Interessierte, die sich mit offenen Daten beschäftigen möchten. Gemeinsam analysieren wir Luftqualitätsdaten aus Bayern und lernen dabei, wie man öffentlich verfügbare Daten nutzt, aufbereitet und visualisiert.
+Weitere Informationen über die Ausführungen von Notebooks findet man auf dieser [Repo](https://github.com/byte-bayern/open-bydata-notebooks).
 
 ### Was erwartet dich?
 
-In diesem Workshop arbeiten wir mit einem Jupyter Notebook, das die Emissionswerte von **Stickstoffmonoxid (NO)** und **Ozon (O₃)** aus den Jahren 2018 bis 2023 analysiert. Dabei lernt man:
+Dieses Notebook richtet sich an Einsteiger:innen und Interessierte, die sich mit offenen Daten beschäftigen möchten. Man analysiert die Luftqualitätsdaten aus Bayern und lernt dabei, öffentlich verfügbare Daten zu nutzen, aufbereiten und visualisieren. Als Beispiel werden die Emissionswerte von **Stickstoffmonoxid (NO)** und **Ozon (O₃)** aus den Jahren 2019 bis 2024 analysiert.
 
 - **Daten laden und vorbereiten**: Wie man Daten aus öffentlichen Quellen herunterlädt und für die Analyse aufbereitet
 - **Daten analysieren**: Welche Stationen haben die höchsten Emissionswerte? Wie haben sich die Werte über die Jahre entwickelt?
 - **Visualisierungen erstellen**: Zeitreihen, Tagesverläufe und geografische Karten erstellen
 - **Muster erkennen**: Zusammenhänge zwischen Standorten, Zeitpunkten und Emissionswerten identifizieren
-
-#### Vorbereitung
-- [ ] Notebook über MyBinder oder Colab öffnen
-- [ ] Sich mit der Jupyter Notebook-Oberfläche vertraut machen
-
-#### Während des Workshops
-- [ ] Schritt für Schritt durch das Notebook arbeiten
-- [ ] Code-Zellen ausführen und Ergebnisse interpretieren
-- [ ] Eigene Experimente durchführen (z.B. andere Städte auswählen, andere Zeiträume analysieren)
-- [ ] Fragen zu den Ergebnissen stellen und diskutieren
-
-#### Nach dem Workshop
-- [ ] Eigene Analysen mit anderen Emissionswerten durchführen (PM2.5, NO₂, SO₂)
-- [ ] Weitere Datenquellen erkunden (z.B. Wetterdaten, Verkehrsdaten)
-- [ ] Die erlernten Methoden auf andere Datensätze anwenden
 
 ### Erworbenes Know-how
 
