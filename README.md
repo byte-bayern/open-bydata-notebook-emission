@@ -20,3 +20,8 @@ Dieses Notebook richtet sich an Einsteiger:innen und Interessierte, die sich mit
 3. **Zeitliche Analyse**: Entwicklung der Emissionswerte über die Jahre
 4. **Räumliche Visualisierung**: Darstellung der Messstationen auf einer interaktiven Karte
 5. **Interpretation**: Diskussion der Ergebnisse und möglicher Ursachen
+
+
+### Lizenz
+
+Der Code des Notebooks ist mit der Apache-Lizenz versehen. Wichtig: die im Notebooks verwendeten Datensätze verwenden ggf. andere Lizenzen, die auf open.bydata einsehbar sind.
