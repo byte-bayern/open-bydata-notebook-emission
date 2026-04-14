@@ -24,4 +24,4 @@ Dieses Notebook richtet sich an Einsteiger:innen und Interessierte, die sich mit
 
 ### Lizenz
 
-Der Code des Notebooks ist mit der Apache-Lizenz versehen. Wichtig: die im Notebooks verwendeten Datensätze verwenden ggf. andere Lizenzen, die auf open.bydata einsehbar sind.
+Der Code des Notebooks ist mit der Apache-Lizenz versehen. Wichtig: die im Notebook verwendeten Datensätze verwenden ggf. andere Lizenzen, die auf open.bydata einsehbar sind.
