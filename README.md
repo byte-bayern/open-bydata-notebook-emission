@@ -2,7 +2,7 @@
 
 In Google Colab öffnen: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/byte-bayern/open-bydata-notebook-emission/blob/main/emissionen.ipynb) (Google-Konto notwendig)
 
-Weitere Informationen über die Ausführungen von Notebooks findet man auf dieser [Repo](https://github.com/byte-bayern/open-bydata-notebooks).
+Weitere Informationen über die Ausführungen von Notebooks findet man auf diesem [Repo](https://github.com/byte-bayern/open-bydata-notebooks).
 
 ### Was erwartet dich?
 
